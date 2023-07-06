@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/ace/Coding/JS Projects/amara/server/venv/bin/python3" "$0" "$@"
-' '''
+#!/home/ace/Coding/cloned/server/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
